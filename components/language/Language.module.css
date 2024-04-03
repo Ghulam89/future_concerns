@@ -1,0 +1,109 @@
+/* Basic Flexbox and Alignment */
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.itemsCenter {
+  display: flex;
+  align-items: center;
+}
+
+/* Gaps */
+.gap2 {
+  gap: 8px; /* Tailwind gap-2 equivalent */
+}
+
+/* Borders */
+.border {
+  border: 1px solid #e5e7eb; /* Tailwind border-gray-300 */
+}
+
+/* Rounded corners */
+.roundedFull {
+  border-radius: 9999px;
+}
+
+/* Text styles */
+.textSmall {
+  font-size: 0.875rem; /* Tailwind text-sm */
+}
+
+.fontMedium {
+  font-weight: 500; /* Tailwind font-medium */
+}
+
+.textGray700 {
+  color: #374151; /* Tailwind text-gray-700 */
+}
+
+.textWhite {
+  color: #ffffff; /* Tailwind text-white */
+}
+
+.textBlack {
+  color: #000000; /* Tailwind text-black */
+}
+
+/* Background colors */
+.bgWhite {
+  background-color: #ffffff; /* Tailwind bg-white */
+}
+
+.hoverBgGrayLight:hover {
+  background-color: #f3f4f6; /* Tailwind hover:bg-gray-100, adjusted for lightness */
+}
+
+/* Padding and margins */
+.p2 {
+  padding: 8px; /* Tailwind p-2 */
+}
+
+.m0 {
+  margin: 0; /* Tailwind m-0 */
+}
+
+/* Object and Width */
+.objectCover {
+  object-fit: cover;
+}
+
+.w7 {
+  width: 28px; /* Tailwind w-7 */
+}
+
+.h7 {
+  height: 28px; /* Tailwind h-7 */
+}
+
+/* Absolute and Relative Positioning */
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+/* Shadows */
+.shadowLg {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Widths */
+.w80 {
+  width: 20rem; /* Tailwind w-80 */
+}
+
+/* Rings */
+.focusRingIndigo500:focus {
+  outline: 2px solid #6366f1; /* Tailwind focus:ring-2 focus:ring-indigo-500 */
+  outline-offset: 2px;
+}
+
+/* Z-Index */
+.z50 {
+  z-index: 50;
+}

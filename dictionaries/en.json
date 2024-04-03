@@ -1,0 +1,35 @@
+{
+    "Header":{
+        "home":"home",
+        "services":"services",
+        "sweden":"new in Sweden",
+        "work":"Work Permit",
+        "about":"About Us"
+
+    },
+    "Hero": {
+      "span": "we provide your right employees to grow your business",
+      "title": "Grow Your Business with Right Employees",
+      "description": "We provide highly skilled workers from all over the world for Swedish Companies to grow! Web, App, Software Developers, IT Consultants, Solar Panel Specialist, Construction workers.",
+      "btn1":"our services",
+      "btn2":"Contact Us"
+    },
+    "ourServices":{
+      "span":"we empower your skills to succeed in sweden!",
+      "title":"IT Manpower Solutions For Swedish Companies",
+      "s1":"Software Development",
+      "s_para1":"We combine our tech expertise and industry-specific knowledge to provide you develop outstanding software solutions for your projects. With a sharp focus on quality-driven results, we have proven to be a reliable partner for companies looking to propel their growth through software development services.",
+      "s2":"API Integrations",
+      "s_para2":"We can provide you with the team to embed customizable integrations into your product. This will solve your integration backlog and give you more time to actually build your product. You can connect virous services which can give your business a sudden boost.      ",
+      "s3":"App Development",
+      "s_para3":"The world went mobile. To keep up to date use the resources and expertise of the Top Software Development Company and let us lead you through the process of creating an intelligent solution that will be a good fit for mobile users. Our developer’s team provide you with instant solution for modern business.      ",
+      "s4":"Digital Marketing",
+      "s_para4":"Sales and marketing go hand in hand. Marketing attracts the right audience, and sales take mature prospects through their buying journey and eventually to a sale. Given the relationship between the two teams, you can improve their conversion rates by connecting them seamlessly through integrations.      ",
+      "s5":"Cross Platform Development",
+      "s_para5":"Take advantage of modern frameworks which make coding easier and create interactive mobile applications for both iOS and Android platforms, with a single JavaScript codebase. We can provide you right manpower services for instant solution.      ",
+      "s6":"Business Visa",
+      "s_para6":"For the persons whose jobs require a minimum work experience."
+      
+    }
+   
+  }
